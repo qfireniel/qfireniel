@@ -65,10 +65,4 @@ I am a Software Engineering student at **Babcock University, Nigeria**. As a pas
   </tr>
 </table>
 
----
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/qfireniel">
-    <img height="180em" src="
