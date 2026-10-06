@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello, I'm Doonen👋
+
+I'm a software engineer currently in my 3rd year of University.
+I'm *mostly* interested in Full-Stack Web development with other interests in Graphics programming, ML and Game Dev.
+
+
 
 <!--
 **qfireniel/qfireniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
